@@ -62,5 +62,4 @@ with ThreadPoolExecutor(max_workers=20) as ex:
         ex.submit(check_IP, min_index)
 
 print(thread_status)
-for key, value in usable_ip.items():
-    print(key+": " +value)
+print(usable_ip)

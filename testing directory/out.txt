@@ -1,0 +1,474 @@
+/usr/local/bin/python3.10 "/Users/alanzhou/Library/Application Support/JetBrains/Toolbox/apps/PyCharm-P/ch-0/221.5080.212/PyCharm.app/Contents/plugins/python/helpers/pydev/pydevd.py" --multiprocess --qt-support=auto --client 127.0.0.1 --port 54550 --file "/Users/alanzhou/Documents/GitHub/Fuck-DNS-poisoning/testing directory/surfshark-test-ping3-threading.py"
+Connected to pydev debugger (build 221.5080.212)
+[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+Found usable ip for 🇩🇿 Algeria・Algiers 62.197.144.10
+Found usable ip for 🇩🇪 Germany・Berlin 89.36.76.117
+Found usable ip for 🇩🇪 Germany・Frankfurt am Main 156.146.33.69
+Found usable ip for 🇮🇳 India・Indore 103.73.191.51
+Found usable ip for 🇱🇻 Latvia・Riga 188.92.78.150
+Found usable ip for 🇬🇷 Greece・Athens 194.150.167.48
+Found usable ip for 🇦🇺 Australia・Sydney 45.125.247.155
+Found usable ip for 🇧🇷 Brazil・Sao Paulo 138.199.58.75
+Found usable ip for 🇱🇺 Luxembourg・Luxembourg 185.153.151.29
+Found usable ip for 🇮🇹 Italy・Milan 212.102.54.143
+Found usable ip for 🇩🇰 Denmark・Copenhagen 2.58.46.5
+Found usable ip for 🇨🇾 Cyprus・Nicosia 193.19.204.72
+Found usable ip for 🇨🇷 Costa Rica・San Jose 176.227.241.21
+Found usable ip for 🇪🇪 Estonia・Tallinn 185.174.159.51
+91.206.168.24 for 🇦🇷 Argentina・Buenos Aires is blocked by the GFW
+45.129.32.38 for 🇨🇴 Colombia・Bogota is blocked by the GFW
+Found usable ip for 🇮🇳 India・Chennai 103.94.27.227
+Found usable ip for 🇮🇸 Iceland・Reykjavik 45.133.193.109
+Found usable ip for 🇮🇱 Israel・Tel Aviv 87.239.255.107
+Found usable ip for 🇰🇿 Kazakhstan・Oral 5.189.202.128
+185.252.222.99 for 🇮🇪 Ireland・Dublin is blocked by the GFW
+Found usable ip for 🇨🇦 Canada・Montreal 91.245.254.123
+89.164.99.136 for 🇭🇷 Croatia・Zagreb is blocked by the GFW
+188.95.54.20 for 🇧🇪 Belgium・Antwerp is blocked by the GFW
+217.138.220.131 for 🇨🇿 Czech Republic・Prague is blocked by the GFW
+185.166.84.83 for 🇫🇷 France・Marseille is blocked by the GFW
+An Error occured attempting to process 🇳🇬 Nigeria・Lagos
+103.192.80.147 for 🇦🇺 Australia・Melbourne is blocked by the GFW
+129.227.219.9 for 🇮🇳 India・Mumbai is blocked by the GFW
+Found usable ip for 🇲🇹 Malta・Valletta 193.228.56.11
+185.108.106.26 for 🇫🇷 France・Bordeaux is blocked by the GFW
+Found usable ip for 🇨🇦 Canada・Toronto 37.19.211.82
+37.120.144.197 for 🇭🇺 Hungary・Budapest is blocked by the GFW
+Found usable ip for 🇮🇩 Indonesia・Jakarta 103.148.242.170
+Found usable ip for 🇦🇺 Australia・Perth 124.150.139.125
+212.102.42.84 for 🇭🇰 Hong Kong・Hong Kong is blocked by the GFW
+91.239.207.224 for 🇬🇪 Georgia・Tbilisi is blocked by the GFW
+Found usable ip for 🇨🇱 Chile・Santiago 31.169.121.19
+185.104.186.77 for 🇧🇪 Belgium・Brussels is blocked by the GFW45.248.79.27 for 🇦🇺 Australia・Adelaide is blocked by the GFW
+
+144.48.39.123 for 🇦🇺 Australia・Brisbane is blocked by the GFW
+45.89.174.93 for 🇫🇷 France・Paris is blocked by the GFW
+185.99.3.108 for 🇧🇦 Bosnia & Herzegovina・Sarajevo is blocked by the GFW
+84.17.34.26 for 🇯🇵 Japan・Tokyo is blocked by the GFW
+42.0.30.211 for 🇲🇾 Malaysia・Kuala Lumpur is blocked by the GFW
+194.41.112.16 for 🇲🇽 Mexico・Mexico City is blocked by the GFW
+Found usable ip for 🇦🇪 United Arab Emirates・Dubai 45.9.249.245
+An Error occured attempting to process 🇷🇺 Russia・Moscow
+172.83.40.147 for 🇨🇦 Canada・Vancouver is blocked by the GFW
+Found usable ip for 🇹🇷 Turkey・Istanbul 45.136.155.53
+Found usable ip for 🇳🇿 New Zealand・Auckland 180.149.231.115
+Found usable ip for 🇵🇱 Poland・Warsaw 45.134.212.233
+Found usable ip for 🇸🇬 Singapore・Singapore 103.216.223.163
+Found usable ip for 🇰🇷 South Korea・Seoul 45.130.137.18
+Found usable ip for 🇪🇸 Spain・Valencia 185.153.150.58
+217.138.202.21 for 🇧🇬 Bulgaria・Sofia is blocked by the GFW
+Found usable ip for 🇿🇦 South Africa・Johannesburg 154.127.50.130
+185.225.28.243 for 🇲🇰 North Macedonia・Skopje is blocked by the GFW
+45.134.224.8 for 🇵🇭 Philippines・Manila is blocked by the GFW
+185.217.71.189 for 🇮🇹 Italy・Rome is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Tampa 209.216.92.222
+193.218.35.3 for 🇵🇪 Peru・Lima is blocked by the GFW
+5.187.49.189 for 🇵🇱 Poland・Gdansk is blocked by the GFWFound usable ip for 🇵🇹 Portugal・Porto 194.39.127.151Found usable ip for 🇵🇹 Portugal・Lisbon 91.205.230.164
+
+
+82.102.26.155 for 🇪🇸 Spain・Barcelona is blocked by the GFW
+196.244.191.13 for 🇫🇮 Finland・Helsinki is blocked by the GFW
+89.46.223.56 for 🇳🇱 Netherlands・Amsterdam is blocked by the GFW
+185.244.139.3 for 🇵🇦 Panama・Panama is blocked by the GFW
+45.12.223.211 for 🇳🇴 Norway・Oslo is blocked by the GFW
+Found usable ip for 🇬🇧 United Kingdom・Manchester 103.219.21.24
+Found usable ip for 🇸🇰 Slovakia・Bratislava 193.37.255.35
+195.158.249.50 for 🇸🇮 Slovenia・Ljubljana is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Boston 43.225.189.74
+169.150.197.9 for 🇨🇭 Switzerland・Zurich is blocked by the GFW
+Found usable ip for 🇺🇸 United states・San Francisco 93.115.200.53
+Found usable ip for 🇷🇸 Serbia・Belgrade 37.120.193.51
+31.171.155.37 for 🇦🇱 Albania・Tirana is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Detroit 193.19.206.54
+Found usable ip for 🇺🇸 United states・Latham 154.16.169.7
+Found usable ip for 🇺🇸 United states・Los Angeles 185.193.157.210
+45.83.91.133 for 🇸🇪 Sweden・Stockholm is blocked by the GFW
+37.120.148.227 for 🇪🇸 Spain・Madrid is blocked by the GFW
+185.44.76.172 for 🇬🇧 United Kingdom・London is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Salt Lake City 104.200.131.249
+Found usable ip for 🇦🇿 Azerbaijan・Baku 62.212.239.43
+89.187.168.54 for 🇦🇹 Austria・Vienna is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Kansas City 38.146.5.195
+156.146.50.107 for 🇺🇦 Ukraine・Kyiv is blocked by the GFW
+84.17.35.78 for 🇺🇸 United states・New York is blocked by the GFW
+Found usable ip for 🇦🇷 Argentina・Buenos Aires 91.206.168.58
+178.175.128.235 for 🇲🇩 Moldova・Chisinau is blocked by the GFW
+107.175.104.84 for 🇺🇸 United states・Buffalo is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Seattle 138.199.12.52
+185.108.105.79 for 🇬🇧 United Kingdom・Glasgow is blocked by the GFW
+Found usable ip for 🇧🇪 Belgium・Brussels 217.138.211.219
+217.148.143.219 for 🇷🇴 Romania・Bucharest is blocked by the GFW
+37.19.220.194 for 🇺🇸 United states・Ashburn is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Dallas 2.56.189.122
+Found usable ip for 🇦🇿 Azerbaijan・Baku 85.132.101.157
+148.72.171.178 for 🇺🇸 United states・St. Louis is blocked by the GFW
+Found usable ip for 🇻🇪 Venezuela・Caracas 45.149.3.12
+Found usable ip for 🇧🇦 Bosnia & Herzegovina・Sarajevo 185.99.3.100
+107.179.20.171 for 🇺🇸 United states・Houston is blocked by the GFW
+87.101.93.181 for 🇺🇸 United states・Miami is blocked by the GFW
+79.110.53.205 for 🇺🇸 United states・Las Vegas is blocked by the GFW
+192.154.254.137 for 🇺🇸 United states・Charlotte is blocked by the GFW
+Found usable ip for 🇧🇬 Bulgaria・Sofia 37.19.203.76
+2.58.242.45 for 🇹🇼 Taiwan・Taichung City is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Atlanta 92.119.19.48
+62.197.144.5 for 🇩🇿 Algeria・Algiers is blocked by the GFW
+104.255.169.130 for 🇺🇸 United states・Bend is blocked by the GFW
+Found usable ip for 🇨🇴 Colombia・Bogota 45.129.32.15
+138.199.42.149 for 🇺🇸 United states・Chicago is blocked by the GFW
+45.86.211.25 for 🇺🇸 United states・Phoenix is blocked by the GFW
+Found usable ip for 🇨🇱 Chile・Santiago 31.169.121.21
+45.40.54.9 for 🇹🇭 Thailand・Bangkok is blocked by the GFW
+87.249.133.78 for 🇦🇹 Austria・Vienna is blocked by the GFW
+212.102.44.86 for 🇺🇸 United states・Denver is blocked by the GFW
+Found usable ip for 🇨🇦 Canada・Montreal 91.245.254.19
+198.147.22.133 for 🇺🇸 United states・Orlando is blocked by the GFW
+Found usable ip for 🇫🇷 France・Marseille 185.166.84.31
+Found usable ip for 🇮🇹 Italy・Milan 178.249.211.137
+Found usable ip for 🇮🇳 India・Mumbai 129.227.219.34
+Found usable ip for 🇬🇷 Greece・Athens 91.240.243.22
+176.227.241.31 for 🇨🇷 Costa Rica・San Jose is blocked by the GFW
+144.48.39.133 for 🇦🇺 Australia・Brisbane is blocked by the GFW
+Found usable ip for 🇲🇹 Malta・Valletta 193.228.56.13
+Found usable ip for 🇬🇪 Georgia・Tbilisi 195.54.178.60
+37.19.211.99 for 🇨🇦 Canada・Toronto is blocked by the GFW
+66.115.147.67 for 🇨🇦 Canada・Vancouver is blocked by the GFW
+85.10.56.227 for 🇭🇷 Croatia・Zagreb is blocked by the GFW
+Found usable ip for 🇫🇮 Finland・Helsinki 196.244.191.101
+Found usable ip for 🇭🇺 Hungary・Budapest 185.128.26.179
+185.152.64.178 for 🇨🇿 Czech Republic・Prague is blocked by the GFW
+Found usable ip for 🇧🇪 Belgium・Antwerp 188.95.54.15
+Found usable ip for 🇵🇪 Peru・Lima 193.218.35.14
+45.133.193.197 for 🇮🇸 Iceland・Reykjavik is blocked by the GFW
+Found usable ip for 🇵🇭 Philippines・Manila 45.134.224.3
+An Error occured attempting to process 🇷🇺 Russia・Moscow
+152.89.163.227 for 🇩🇪 Germany・Berlin is blocked by the GFW
+103.94.27.115 for 🇮🇳 India・Chennai is blocked by the GFW
+Found usable ip for 🇮🇱 Israel・Tel Aviv 87.239.255.114
+An Error occured attempting to process 🇳🇬 Nigeria・Lagos
+212.102.42.82 for 🇭🇰 Hong Kong・Hong Kong is blocked by the GFW
+Found usable ip for 🇿🇦 South Africa・Johannesburg 154.127.49.230
+Found usable ip for 🇹🇭 Thailand・Bangkok 45.40.54.47
+Found usable ip for 🇵🇦 Panama・Panama 185.244.139.5
+Found usable ip for 🇷🇴 Romania・Bucharest 86.106.137.147
+103.39.134.61 for 🇮🇳 India・Indore is blocked by the GFW
+Found usable ip for 🇲🇽 Mexico・Mexico City 194.41.112.39
+185.174.159.131 for 🇪🇪 Estonia・Tallinn is blocked by the GFW
+143.244.57.106 for 🇫🇷 France・Paris is blocked by the GFW
+37.120.235.91 for 🇮🇪 Ireland・Dublin is blocked by the GFW
+180.149.231.43 for 🇳🇿 New Zealand・Auckland is blocked by the GFW
+Found usable ip for 🇪🇸 Spain・Madrid 84.17.62.163
+Found usable ip for 🇸🇮 Slovenia・Ljubljana 195.158.249.59
+185.225.28.85 for 🇲🇰 North Macedonia・Skopje is blocked by the GFW
+Found usable ip for 🇪🇸 Spain・Valencia 196.196.150.85
+91.205.230.156 for 🇵🇹 Portugal・Lisbon is blocked by the GFW
+5.133.8.117 for 🇵🇱 Poland・Gdansk is blocked by the GFW
+Found usable ip for 🇦🇪 United Arab Emirates・Dubai 176.125.231.5
+103.148.242.163 for 🇮🇩 Indonesia・Jakarta is blocked by the GFW
+Found usable ip for 🇸🇰 Slovakia・Bratislava 37.120.221.3
+138.199.22.141 for 🇯🇵 Japan・Tokyo is blocked by the GFW
+Found usable ip for 🇱🇻 Latvia・Riga 188.92.78.145
+185.153.151.13 for 🇱🇺 Luxembourg・Luxembourg is blocked by the GFW
+Found usable ip for 🇺🇦 Ukraine・Kyiv 156.146.50.97
+Found usable ip for 🇺🇸 United states・Ashburn 37.19.206.56
+An Error occured attempting to process 🇺🇸 United states・Manassas
+89.46.223.64 for 🇳🇱 Netherlands・Amsterdam is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Boston 43.225.189.56
+An Error occured attempting to process 🇺🇸 United states・Manassas
+138.199.19.241 for 🇩🇪 Germany・Frankfurt am Main is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Latham 45.43.19.84
+Found usable ip for 🇬🇧 United Kingdom・Manchester 37.120.233.251
+Found usable ip for 🇹🇷 Turkey・Istanbul 87.249.139.183
+152.89.160.115 for 🇷🇸 Serbia・Belgrade is blocked by the GFW
+185.246.208.182 for 🇵🇱 Poland・Warsaw is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Detroit 193.19.206.98
+185.76.9.49 for 🇸🇪 Sweden・Stockholm is blocked by the GFW
+Found usable ip for 🇬🇧 United Kingdom・Glasgow 185.108.105.109
+37.120.142.125 for 🇪🇸 Spain・Barcelona is blocked by the GFW
+Found usable ip for 🇻🇪 Venezuela・Caracas 45.149.3.5
+193.29.107.91 for 🇩🇰 Denmark・Copenhagen is blocked by the GFW
+Found usable ip for 🇨🇦 Canada・Vancouver 198.8.92.74
+Found usable ip for 🇨🇭 Switzerland・Zurich 89.37.173.35
+144.48.38.179 for 🇦🇺 Australia・Melbourne is blocked by the GFW
+37.19.199.224 for 🇺🇸 United states・New York is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Houston 107.179.20.187
+Found usable ip for 🇺🇸 United states・Dallas 37.19.200.110
+Found usable ip for 🇧🇦 Bosnia & Herzegovina・Sarajevo 185.212.111.6
+Found usable ip for 🇺🇸 United states・Los Angeles 89.187.187.81
+Found usable ip for 🇦🇺 Australia・Perth 124.150.139.123
+Found usable ip for 🇧🇷 Brazil・Sao Paulo 138.199.58.77
+212.102.44.78 for 🇺🇸 United states・Denver is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Salt Lake City 104.200.131.245
+66.11.124.17 for 🇺🇸 United states・Charlotte is blocked by the GFW
+209.216.85.163 for 🇺🇸 United states・Tampa is blocked by the GFW
+Found usable ip for 🇨🇦 Canada・Montreal 91.245.254.115
+Found usable ip for 🇨🇷 Costa Rica・San Jose 176.227.241.24
+212.102.46.65 for 🇺🇸 United states・Seattle is blocked by the GFW
+45.134.140.17 for 🇺🇸 United states・Atlanta is blocked by the GFW
+79.110.54.125 for 🇺🇸 United states・Las Vegas is blocked by the GFW
+180.149.228.181 for 🇦🇺 Australia・Sydney is blocked by the GFW
+31.171.152.195 for 🇦🇱 Albania・Tirana is blocked by the GFW
+Found usable ip for 🇺🇸 United states・St. Louis 148.72.169.213
+193.27.12.245 for 🇺🇸 United states・Miami is blocked by the GFW
+198.147.22.195 for 🇺🇸 United states・Orlando is blocked by the GFW
+Found usable ip for 🇫🇷 France・Paris 185.246.211.69
+Found usable ip for 🇪🇪 Estonia・Tallinn 185.174.159.61
+37.19.211.29 for 🇨🇦 Canada・Toronto is blocked by the GFW
+An Error occured attempting to process 🇦🇺 Australia・Adelaide
+Found usable ip for 🇨🇾 Cyprus・Nicosia 193.19.204.74
+Found usable ip for 🇬🇷 Greece・Athens 91.240.243.17
+107.174.20.132 for 🇺🇸 United states・Buffalo is blocked by the GFW
+Found usable ip for 🇮🇹 Italy・Milan 178.249.211.132
+62.197.144.3 for 🇩🇿 Algeria・Algiers is blocked by the GFW
+45.129.32.64 for 🇨🇴 Colombia・Bogota is blocked by the GFW
+Found usable ip for 🇦🇹 Austria・Vienna 87.249.133.68
+Found usable ip for 🇺🇸 United states・San Francisco 93.115.200.48
+176.222.34.121 for 🇭🇷 Croatia・Zagreb is blocked by the GFW
+91.206.168.11 for 🇦🇷 Argentina・Buenos Aires is blocked by the GFW
+Found usable ip for 🇮🇳 India・Mumbai 129.227.219.37
+Found usable ip for 🇺🇸 United states・Phoenix 45.86.211.3
+Found usable ip for 🇱🇺 Luxembourg・Luxembourg 185.153.151.41
+Found usable ip for 🇮🇳 India・Chennai 103.94.27.101
+185.180.14.153 for 🇨🇿 Czech Republic・Prague is blocked by the GFW
+Found usable ip for 🇫🇮 Finland・Helsinki 196.196.203.109
+Found usable ip for 🇮🇩 Indonesia・Jakarta 103.148.242.173
+Found usable ip for 🇮🇪 Ireland・Dublin 146.70.48.51
+Found usable ip for 🇬🇪 Georgia・Tbilisi 195.54.178.32
+Found usable ip for 🇳🇱 Netherlands・Amsterdam 89.46.223.190
+Found usable ip for 🇩🇰 Denmark・Copenhagen 37.120.194.163
+Found usable ip for 🇲🇩 Moldova・Chisinau 194.33.40.114
+Found usable ip for 🇦🇺 Australia・Sydney 180.149.228.115
+Found usable ip for 🇵🇱 Poland・Warsaw 45.134.212.228
+Found usable ip for 🇰🇿 Kazakhstan・Oral 5.189.202.126
+An Error occured attempting to process 🇳🇬 Nigeria・Lagos
+Found usable ip for 🇵🇹 Portugal・Lisbon 5.154.174.211
+Found usable ip for 🇵🇹 Portugal・Porto 194.39.127.153
+Found usable ip for 🇭🇺 Hungary・Budapest 185.252.223.85
+84.17.57.71 for 🇭🇰 Hong Kong・Hong Kong is blocked by the GFW
+62.212.239.67 for 🇦🇿 Azerbaijan・Baku is blocked by the GFW
+Found usable ip for 🇮🇳 India・Indore 103.76.248.213
+Found usable ip for 🇲🇰 North Macedonia・Skopje 185.225.28.69
+138.199.16.135 for 🇫🇷 France・Marseille is blocked by the GFW
+138.199.19.157 for 🇩🇪 Germany・Frankfurt am Main is blocked by the GFW
+143.244.60.164 for 🇺🇸 United states・Chicago is blocked by the GFW
+Found usable ip for 🇵🇭 Philippines・Manila 45.134.224.15
+87.101.94.229 for 🇮🇹 Italy・Rome is blocked by the GFW
+Found usable ip for 🇿🇦 South Africa・Johannesburg 154.127.50.140
+Found usable ip for 🇺🇸 United states・Ashburn 37.19.206.54
+An Error occured attempting to process 🇺🇸 United states・Manassas
+Found usable ip for 🇺🇸 United states・Latham 192.154.248.179
+Found usable ip for 🇹🇭 Thailand・Bangkok 45.40.54.19
+Found usable ip for 🇺🇸 United states・Boston 43.225.189.78
+193.218.35.7 for 🇵🇪 Peru・Lima is blocked by the GFW
+An Error occured attempting to process 🇷🇺 Russia・Moscow
+Found usable ip for 🇹🇷 Turkey・Istanbul 87.249.139.180
+Found usable ip for 🇺🇸 United states・Phoenix 45.86.211.18
+Found usable ip for 🇺🇸 United states・Buffalo 172.93.146.212
+2.58.242.53 for 🇹🇼 Taiwan・Taichung City is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Houston 107.179.20.165
+152.89.160.61 for 🇷🇸 Serbia・Belgrade is blocked by the GFW
+Found usable ip for 🇺🇦 Ukraine・Kyiv 143.244.46.215
+Found usable ip for 🇬🇧 United Kingdom・Manchester 37.120.233.125
+Found usable ip for 🇪🇸 Spain・Barcelona 185.188.61.111
+Found usable ip for 🇰🇷 South Korea・Seoul 45.130.137.30
+87.101.93.187 for 🇺🇸 United states・Miami is blocked by the GFWFound usable ip for 🇺🇸 United states・Seattle 212.102.46.39
+185.108.105.31 for 🇬🇧 United Kingdom・Glasgow is blocked by the GFW
+
+185.153.150.74 for 🇪🇸 Spain・Valencia is blocked by the GFW
+Found usable ip for 🇦🇱 Albania・Tirana 31.171.153.165
+37.120.140.61 for 🇷🇴 Romania・Bucharest is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Detroit 193.19.206.60
+Found usable ip for 🇸🇪 Sweden・Stockholm 185.76.9.39
+Found usable ip for 🇦🇹 Austria・Vienna 89.187.168.239
+Found usable ip for 🇳🇿 New Zealand・Auckland 180.149.231.5
+Found usable ip for 🇺🇸 United states・Chicago 138.199.42.180
+37.120.148.213 for 🇪🇸 Spain・Madrid is blocked by the GFW
+209.216.92.202 for 🇺🇸 United states・Tampa is blocked by the GFW
+Found usable ip for 🇻🇪 Venezuela・Caracas 45.149.3.14
+Found usable ip for 🇨🇴 Colombia・Bogota 45.129.32.57
+An Error occured attempting to process 🇺🇸 United states・Bend
+Found usable ip for 🇧🇷 Brazil・Sao Paulo 138.199.58.70
+Found usable ip for 🇨🇷 Costa Rica・San Jose 176.227.241.26
+Found usable ip for 🇨🇱 Chile・Santiago 31.169.121.3
+212.102.44.91 for 🇺🇸 United states・Denver is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Charlotte 192.158.224.110
+An Error occured attempting to process 🇦🇺 Australia・Adelaide
+45.43.14.75 for 🇺🇸 United states・Bend is blocked by the GFW
+66.115.182.74 for 🇺🇸 United states・Orlando is blocked by the GFW
+144.48.38.139 for 🇦🇺 Australia・Melbourne is blocked by the GFW
+Found usable ip for 🇭🇰 Hong Kong・Hong Kong 156.146.45.103
+Found usable ip for 🇮🇸 Iceland・Reykjavik 45.133.193.195
+Found usable ip for 🇩🇪 Germany・Berlin 193.176.86.171
+An Error occured attempting to process 🇫🇷 France・Bordeaux
+Found usable ip for 🇲🇽 Mexico・Mexico City 194.41.112.19Found usable ip for 🇮🇳 India・Indore 103.76.248.211
+
+Found usable ip for 🇳🇱 Netherlands・Amsterdam 89.46.223.212
+156.146.33.75 for 🇩🇪 Germany・Frankfurt am Main is blocked by the GFW
+Found usable ip for 🇭🇷 Croatia・Zagreb 89.164.99.111
+185.166.84.57 for 🇫🇷 France・Marseille is blocked by the GFW
+194.150.167.36 for 🇬🇷 Greece・Athens is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Los Angeles 45.149.173.208
+Found usable ip for 🇱🇻 Latvia・Riga 188.92.78.152
+Found usable ip for 🇵🇱 Poland・Gdansk 5.133.14.198
+An Error occured attempting to process 🇷🇺 Russia・Moscow
+208.78.41.197 for 🇨🇦 Canada・Vancouver is blocked by the GFW
+217.138.219.237 for 🇮🇹 Italy・Rome is blocked by the GFW
+An Error occured attempting to process 🇲🇹 Malta・Valletta
+37.19.211.67 for 🇨🇦 Canada・Toronto is blocked by the GFW
+148.72.174.36 for 🇺🇸 United states・St. Louis is blocked by the GFW
+An Error occured attempting to process 🇳🇴 Norway・Oslo
+Found usable ip for 🇲🇹 Malta・Valletta 193.228.56.5
+138.199.39.78 for 🇯🇵 Japan・Tokyo is blocked by the GFW
+37.120.235.85 for 🇮🇪 Ireland・Dublin is blocked by the GFW
+An Error occured attempting to process 🇵🇱 Poland・Gdansk
+217.138.211.237 for 🇧🇪 Belgium・Brussels is blocked by the GFW
+Found usable ip for 🇷🇴 Romania・Bucharest 37.120.140.59
+Found usable ip for 🇱🇺 Luxembourg・Luxembourg 185.153.151.21
+185.225.28.83 for 🇲🇰 North Macedonia・Skopje is blocked by the GFW
+An Error occured attempting to process 🇸🇬 Singapore・Singapore
+An Error occured attempting to process 🇸🇰 Slovakia・Bratislava
+Found usable ip for 🇵🇦 Panama・Panama 185.244.139.9
+Found usable ip for 🇸🇮 Slovenia・Ljubljana 195.158.249.61
+Found usable ip for 🇨🇭 Switzerland・Zurich 89.37.173.31
+Found usable ip for 🇬🇧 United Kingdom・Glasgow 185.108.105.135
+An Error occured attempting to process 🇦🇪 United Arab Emirates・Dubai
+89.187.163.197 for 🇸🇬 Singapore・Singapore is blocked by the GFW
+An Error occured attempting to process 🇺🇸 United states・Manassas
+Found usable ip for 🇪🇸 Spain・Barcelona 185.188.61.95
+Found usable ip for 🇺🇦 Ukraine・Kyiv 143.244.46.217
+An Error occured attempting to process 🇬🇧 United Kingdom・London
+95.174.66.35 for 🇳🇴 Norway・Oslo is blocked by the GFW
+An Error occured attempting to process 🇺🇸 United states・New York
+212.102.48.8 for 🇪🇸 Spain・Madrid is blocked by the GFW
+185.246.208.72 for 🇵🇱 Poland・Warsaw is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Orlando 66.115.182.72
+Found usable ip for 🇵🇹 Portugal・Lisbon 91.205.230.160
+Found usable ip for 🇺🇸 United states・Ashburn 37.19.206.36
+Found usable ip for 🇺🇸 United states・Detroit 193.19.206.74
+185.76.8.217 for 🇸🇰 Slovakia・Bratislava is blocked by the GFW
+Found usable ip for 🇺🇸 United states・New York 84.17.35.113
+2.58.241.149 for 🇹🇼 Taiwan・Taichung City is blocked by the GFW
+An Error occured attempting to process 🇺🇸 United states・Kansas City
+185.76.9.57 for 🇸🇪 Sweden・Stockholm is blocked by the GFW
+89.238.140.229 for 🇬🇧 United Kingdom・Manchester is blocked by the GFW
+Found usable ip for 🇦🇪 United Arab Emirates・Dubai 176.125.231.37
+209.216.92.217 for 🇺🇸 United states・Tampa is blocked by the GFW
+Found usable ip for 🇦🇱 Albania・Tirana 31.171.154.99
+Found usable ip for 🇺🇸 United states・Dallas 2.56.189.112
+148.72.169.209 for 🇺🇸 United states・St. Louis is blocked by the GFW
+81.19.214.37 for 🇬🇧 United Kingdom・London is blocked by the GFW
+An Error occured attempting to process 🇦🇺 Australia・Adelaide
+138.199.42.131 for 🇺🇸 United states・Chicago is blocked by the GFW
+192.154.255.52 for 🇺🇸 United states・Charlotte is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Atlanta 45.134.140.7
+93.115.200.51 for 🇺🇸 United states・San Francisco is blocked by the GFW
+An Error occured attempting to process 🇧🇬 Bulgaria・Sofia
+45.43.19.76 for 🇺🇸 United states・Latham is blocked by the GFW
+144.48.39.69 for 🇦🇺 Australia・Brisbane is blocked by the GFW
+An Error occured attempting to process 🇨🇦 Canada・Montreal
+Found usable ip for 🇧🇷 Brazil・Sao Paulo 138.199.58.99
+64.44.42.162 for 🇺🇸 United states・Buffalo is blocked by the GFW
+Found usable ip for 🇨🇦 Canada・Montreal 146.70.27.37
+Found usable ip for 🇨🇦 Canada・Toronto 37.19.211.49
+144.48.38.141 for 🇦🇺 Australia・Melbourne is blocked by the GFW
+45.149.3.7 for 🇻🇪 Venezuela・Caracas is blocked by the GFW
+Found usable ip for 🇭🇷 Croatia・Zagreb 85.10.50.164
+Found usable ip for 🇦🇺 Australia・Perth 124.150.139.85
+Found usable ip for 🇪🇪 Estonia・Tallinn 185.174.159.136
+Found usable ip for 🇨🇴 Colombia・Bogota 45.129.32.47
+Found usable ip for 🇦🇷 Argentina・Buenos Aires 91.206.168.3
+Found usable ip for 🇧🇪 Belgium・Antwerp 188.95.54.8
+Found usable ip for 🇺🇸 United states・Los Angeles 45.149.173.218
+84.17.41.75 for 🇺🇸 United states・Seattle is blocked by the GFW
+Found usable ip for 🇦🇺 Australia・Sydney 180.149.228.179
+Found usable ip for 🇩🇪 Germany・Frankfurt am Main 156.146.33.71
+An Error occured attempting to process 🇮🇹 Italy・Milan
+Found usable ip for 🇨🇾 Cyprus・Nicosia 193.19.204.70
+143.244.56.226 for 🇫🇷 France・Paris is blocked by the GFW
+An Error occured attempting to process 🇲🇾 Malaysia・Kuala Lumpur
+84.247.51.243 for 🇫🇷 France・Paris is blocked by the GFW
+Found usable ip for 🇩🇪 Germany・Berlin 89.36.76.51
+An Error occured attempting to process 🇳🇬 Nigeria・Lagos
+Found usable ip for 🇱🇺 Luxembourg・Luxembourg 185.153.151.49
+An Error occured attempting to process 🇳🇬 Nigeria・Lagos
+185.212.111.59 for 🇧🇦 Bosnia & Herzegovina・Sarajevo is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Bend 104.249.62.104
+Found usable ip for 🇧🇬 Bulgaria・Sofia 37.19.203.78
+Found usable ip for 🇮🇹 Italy・Milan 212.102.55.87
+194.150.167.46 for 🇬🇷 Greece・Athens is blocked by the GFW
+Found usable ip for 🇲🇾 Malaysia・Kuala Lumpur 111.90.140.143
+37.120.144.195 for 🇭🇺 Hungary・Budapest is blocked by the GFW
+172.83.40.149 for 🇨🇦 Canada・Vancouver is blocked by the GFW
+Found usable ip for 🇰🇿 Kazakhstan・Oral 5.189.202.117
+Found usable ip for 🇲🇽 Mexico・Mexico City 194.41.112.9
+An Error occured attempting to process 🇵🇹 Portugal・Porto
+An Error occured attempting to process 🇷🇸 Serbia・Belgrade
+Found usable ip for 🇲🇹 Malta・Valletta 212.119.35.5
+An Error occured attempting to process 🇷🇺 Russia・Moscow
+103.108.117.195 for 🇮🇳 India・Chennai is blocked by the GFWAn Error occured attempting to process 🇪🇸 Spain・Valencia
+
+Found usable ip for 🇺🇸 United states・Las Vegas 79.110.54.131
+Found usable ip for 🇸🇪 Sweden・Stockholm 185.76.9.36
+185.244.139.14 for 🇵🇦 Panama・Panama is blocked by the GFW
+138.199.22.150 for 🇯🇵 Japan・Tokyo is blocked by the GFW
+An Error occured attempting to process 🇺🇸 United states・Miami
+Found usable ip for 🇸🇮 Slovenia・Ljubljana 195.158.249.48
+Found usable ip for 🇹🇭 Thailand・Bangkok 45.40.54.44
+Found usable ip for 🇮🇳 India・Indore 103.73.189.59
+152.89.160.211 for 🇷🇸 Serbia・Belgrade is blocked by the GFW
+Found usable ip for 🇰🇷 South Korea・Seoul 61.14.210.244
+185.217.71.245 for 🇮🇹 Italy・Rome is blocked by the GFW
+89.187.163.205 for 🇸🇬 Singapore・Singapore is blocked by the GFW
+143.244.42.71 for 🇳🇱 Netherlands・Amsterdam is blocked by the GFW
+Found usable ip for 🇦🇪 United Arab Emirates・Dubai 176.125.231.13
+An Error occured attempting to process 🇺🇸 United states・Kansas City
+Found usable ip for 🇺🇦 Ukraine・Kyiv 143.244.46.210
+Found usable ip for 🇹🇷 Turkey・Istanbul 87.249.139.178
+An Error occured attempting to process 🇺🇸 United states・Denver
+180.149.231.13 for 🇳🇿 New Zealand・Auckland is blocked by the GFW
+An Error occured attempting to process 🇩🇿 Algeria・Algiers
+Found usable ip for 🇬🇧 United Kingdom・London 89.34.96.86
+An Error occured attempting to process 🇦🇺 Australia・Adelaide
+185.153.150.78 for 🇪🇸 Spain・Valencia is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Latham 45.43.19.74
+2.58.241.133 for 🇹🇼 Taiwan・Taichung City is blocked by the GFW
+154.127.49.232 for 🇿🇦 South Africa・Johannesburg is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Orlando 66.115.182.84
+An Error occured attempting to process 🇺🇸 United states・Manassas
+Found usable ip for 🇺🇸 United states・Boston 43.225.189.92
+An Error occured attempting to process 🇦🇹 Austria・Vienna
+Found usable ip for 🇺🇸 United states・Seattle 212.102.46.45
+Found usable ip for 🇺🇸 United states・Detroit 193.19.206.78
+Found usable ip for 🇺🇸 United states・Houston 107.179.20.157
+103.219.21.10 for 🇬🇧 United Kingdom・Manchester is blocked by the GFW
+Found usable ip for 🇺🇸 United states・Las Vegas 79.110.54.91
+192.158.224.112 for 🇺🇸 United states・Charlotte is blocked by the GFW
+89.187.175.165 for 🇺🇸 United states・Dallas is blocked by the GFW
+An Error occured attempting to process 🇬🇪 Georgia・Tbilisi
+Found usable ip for 🇺🇸 United states・Denver 212.102.44.66
+An Error occured attempting to process 🇭🇰 Hong Kong・Hong Kong
+An Error occured attempting to process 🇮🇩 Indonesia・Jakarta
+148.72.174.51 for 🇺🇸 United states・St. Louis is blocked by the GFW
+An Error occured attempting to process 🇱🇻 Latvia・Riga
+185.166.84.79 for 🇫🇷 France・Marseille is blocked by the GFW
+Found usable ip for 🇺🇸 United states・San Francisco 93.115.200.61
+An Error occured attempting to process 🇵🇪 Peru・Lima
+An Error occured attempting to process 🇵🇱 Poland・Gdansk
+An Error occured attempting to process 🇵🇹 Portugal・Lisbon
+An Error occured attempting to process 🇵🇹 Portugal・Porto
+An Error occured attempting to process 🇪🇸 Spain・Madrid
+An Error occured attempting to process 🇪🇸 Spain・Barcelona
+An Error occured attempting to process 🇨🇭 Switzerland・Zurich
+An Error occured attempting to process 🇬🇧 United Kingdom・Glasgow
+91.219.215.83 for 🇳🇴 Norway・Oslo is blocked by the GFW
+An Error occured attempting to process 🇺🇸 United states・Miami
+138.199.9.193 for 🇺🇸 United states・Los Angeles is blocked by the GFW
+An Error occured attempting to process 🇺🇸 United states・Ashburn
+An Error occured attempting to process 🇺🇸 United states・New York
+Found usable ip for 🇺🇸 United states・Atlanta 195.181.171.226
+138.199.42.169 for 🇺🇸 United states・Chicago is blocked by the GFW
+An Error occured attempting to process 🇺🇸 United states・Kansas City
+An Error occured attempting to process 🇺🇸 United states・Bend
+[10, 10, 10, 3, 10, 10, 4, 10, 10, 8, 8, 10, 9, 10, 10, 10, 10, 10, 9, 10, 9, 10, 10, 3, 8, 10, 8, 10, 9, 10, 10, 10, 10, 10, 10, 9, 9, 8, 9, 10, 10, 9, 7, 10, 4, 4, 10, 10, 10, 10, 10, 10, 8, 10, 9, 10, 9, 10, 10, 10, 8, 10, 9, 10, 10, 9, 10, 10, 10, 9, 10, 9, 10, 10, 10, 10, 10, 10, 4, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 9, 9, 10, 10, 10, 10, 10, 10, 10, 10, 7, 10, 10, 8, 10, 10, 10, 10, 10, 10, 10, 10, 9]
+{'🇩🇿 Algeria・Algiers': '62.197.144.10', '🇩🇪 Germany・Berlin': '89.36.76.51', '🇩🇪 Germany・Frankfurt am Main': '156.146.33.71', '🇮🇳 India・Indore': '103.73.189.59', '🇱🇻 Latvia・Riga': '188.92.78.152', '🇬🇷 Greece・Athens': '91.240.243.17', '🇦🇺 Australia・Sydney': '180.149.228.179', '🇧🇷 Brazil・Sao Paulo': '138.199.58.99', '🇱🇺 Luxembourg・Luxembourg': '185.153.151.49', '🇮🇹 Italy・Milan': '212.102.55.87', '🇩🇰 Denmark・Copenhagen': '37.120.194.163', '🇨🇾 Cyprus・Nicosia': '193.19.204.70', '🇨🇷 Costa Rica・San Jose': '176.227.241.26', '🇪🇪 Estonia・Tallinn': '185.174.159.136', '🇮🇳 India・Chennai': '103.94.27.101', '🇮🇸 Iceland・Reykjavik': '45.133.193.195', '🇮🇱 Israel・Tel Aviv': '87.239.255.114', '🇰🇿 Kazakhstan・Oral': '5.189.202.117', '🇨🇦 Canada・Montreal': '146.70.27.37', '🇲🇹 Malta・Valletta': '212.119.35.5', '🇨🇦 Canada・Toronto': '37.19.211.49', '🇮🇩 Indonesia・Jakarta': '103.148.242.173', '🇦🇺 Australia・Perth': '124.150.139.85', '🇨🇱 Chile・Santiago': '31.169.121.3', '🇦🇪 United Arab Emirates・Dubai': '176.125.231.13', '🇹🇷 Turkey・Istanbul': '87.249.139.178', '🇳🇿 New Zealand・Auckland': '180.149.231.5', '🇵🇱 Poland・Warsaw': '45.134.212.228', '🇸🇬 Singapore・Singapore': '103.216.223.163', '🇰🇷 South Korea・Seoul': '61.14.210.244', '🇪🇸 Spain・Valencia': '196.196.150.85', '🇿🇦 South Africa・Johannesburg': '154.127.50.140', '🇺🇸 United states・Tampa': '209.216.92.222', '🇵🇹 Portugal・Lisbon': '91.205.230.160', '🇵🇹 Portugal・Porto': '194.39.127.153', '🇬🇧 United Kingdom・Manchester': '37.120.233.125', '🇸🇰 Slovakia・Bratislava': '37.120.221.3', '🇺🇸 United states・Boston': '43.225.189.92', '🇺🇸 United states・San Francisco': '93.115.200.61', '🇷🇸 Serbia・Belgrade': '37.120.193.51', '🇺🇸 United states・Detroit': '193.19.206.78', '🇺🇸 United states・Latham': '45.43.19.74', '🇺🇸 United states・Los Angeles': '45.149.173.218', '🇺🇸 United states・Salt Lake City': '104.200.131.245', '🇦🇿 Azerbaijan・Baku': '85.132.101.157', '🇺🇸 United states・Kansas City': '38.146.5.195', '🇦🇷 Argentina・Buenos Aires': '91.206.168.3', '🇺🇸 United states・Seattle': '212.102.46.45', '🇧🇪 Belgium・Brussels': '217.138.211.219', '🇺🇸 United states・Dallas': '2.56.189.112', '🇻🇪 Venezuela・Caracas': '45.149.3.14', '🇧🇦 Bosnia & Herzegovina・Sarajevo': '185.212.111.6', '🇧🇬 Bulgaria・Sofia': '37.19.203.78', '🇺🇸 United states・Atlanta': '195.181.171.226', '🇨🇴 Colombia・Bogota': '45.129.32.47', '🇫🇷 France・Marseille': '185.166.84.31', '🇮🇳 India・Mumbai': '129.227.219.37', '🇬🇪 Georgia・Tbilisi': '195.54.178.32', '🇫🇮 Finland・Helsinki': '196.196.203.109', '🇭🇺 Hungary・Budapest': '185.252.223.85', '🇧🇪 Belgium・Antwerp': '188.95.54.8', '🇵🇪 Peru・Lima': '193.218.35.14', '🇵🇭 Philippines・Manila': '45.134.224.15', '🇹🇭 Thailand・Bangkok': '45.40.54.44', '🇵🇦 Panama・Panama': '185.244.139.9', '🇷🇴 Romania・Bucharest': '37.120.140.59', '🇲🇽 Mexico・Mexico City': '194.41.112.9', '🇪🇸 Spain・Madrid': '84.17.62.163', '🇸🇮 Slovenia・Ljubljana': '195.158.249.48', '🇺🇦 Ukraine・Kyiv': '143.244.46.210', '🇺🇸 United states・Ashburn': '37.19.206.36', '🇬🇧 United Kingdom・Glasgow': '185.108.105.135', '🇨🇦 Canada・Vancouver': '198.8.92.74', '🇨🇭 Switzerland・Zurich': '89.37.173.31', '🇺🇸 United states・Houston': '107.179.20.157', '🇺🇸 United states・St. Louis': '148.72.169.213', '🇫🇷 France・Paris': '185.246.211.69', '🇦🇹 Austria・Vienna': '89.187.168.239', '🇺🇸 United states・Phoenix': '45.86.211.18', '🇮🇪 Ireland・Dublin': '146.70.48.51', '🇳🇱 Netherlands・Amsterdam': '89.46.223.212', '🇲🇩 Moldova・Chisinau': '194.33.40.114', '🇲🇰 North Macedonia・Skopje': '185.225.28.69', '🇺🇸 United states・Buffalo': '172.93.146.212', '🇪🇸 Spain・Barcelona': '185.188.61.95', '🇦🇱 Albania・Tirana': '31.171.154.99', '🇸🇪 Sweden・Stockholm': '185.76.9.36', '🇺🇸 United states・Chicago': '138.199.42.180', '🇺🇸 United states・Charlotte': '192.158.224.110', '🇭🇰 Hong Kong・Hong Kong': '156.146.45.103', '🇭🇷 Croatia・Zagreb': '85.10.50.164', '🇵🇱 Poland・Gdansk': '5.133.14.198', '🇺🇸 United states・Orlando': '66.115.182.84', '🇺🇸 United states・New York': '84.17.35.113', '🇺🇸 United states・Bend': '104.249.62.104', '🇲🇾 Malaysia・Kuala Lumpur': '111.90.140.143', '🇺🇸 United states・Las Vegas': '79.110.54.91', '🇬🇧 United Kingdom・London': '89.34.96.86', '🇺🇸 United states・Denver': '212.102.44.66'}
+
+Process finished with exit code 0
