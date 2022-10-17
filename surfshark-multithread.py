@@ -33,7 +33,7 @@ def check_IP(count):
         ('type', 'A'),
     )
     try:
-        tls.response = requests.get('https://fdp.n100.workers.dev/dns-query', headers=headers, params=tls.params)
+        tls.response = requests.get('https://fdp.daycat.space/dns-query', headers=headers, params=tls.params)
         tls.response = json.loads(tls.response.text)
         tls.currentip = tls.response['Answer'][0]['data']
         if tls.currentip in IPs:

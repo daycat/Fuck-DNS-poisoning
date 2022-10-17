@@ -24,7 +24,7 @@ for a in surfsharkconf:
         try:
             current = surfsharkconf[count]['remarks']
             usable_ip[current] = ''
-            response = requests.get('https://fdp.n100.workers.dev/dns-query', headers=headers, params=params)
+            response = requests.get('https://fdp.daycat.space/dns-query', headers=headers, params=params)
             print(response.text)
             data = {}
             data = json.loads(response.text)

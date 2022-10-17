@@ -14,7 +14,7 @@ got_usable_ip = False
 IPs = []
 while not got_usable_ip:
     try:
-        response = requests.get('https://fdp.n100.workers.dev/dns-query', headers=headers, params=params)
+        response = requests.get('https://fdp.daycat.space/dns-query', headers=headers, params=params)
     except:
         print("Failed to connect to FDP api. Exiting...")
         exit(0)
